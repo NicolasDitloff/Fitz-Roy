@@ -27,8 +27,8 @@ A simple REST API developed using ASP.NET Core and Entity Framework Core to mana
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/TodoListAPI.git
-   cd TodoListAPI
+   git clone https://github.com/Fitz-Roy/Fitz-Roy.git
+   cd Fitz-Roy
 2. **Restore Packages**
    ```bash
    dotnet restore
