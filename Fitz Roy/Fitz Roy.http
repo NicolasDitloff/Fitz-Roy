@@ -1,0 +1,6 @@
+@Fitz_Roy_HostAddress = http://localhost:5145
+
+GET {{Fitz_Roy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
